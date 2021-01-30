@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import datetime
+
+    # create now_time here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7329#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 29 Jan 2021 08:25:01 UTC
+record: -1

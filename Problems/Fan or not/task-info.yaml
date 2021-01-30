@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def add_viewer(...):
+        ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10299#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 29 Jan 2021 03:24:26 UTC
+record: -1
